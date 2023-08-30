@@ -4,13 +4,13 @@
 <!-- Apresentação -->
 <div id="user-presentention-content">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá,   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> sou Edson G. M. Jordão</h1></summary>
+  <h1 style="display: inline-block">Olá,   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> sou Edson G. M. Jordão</h1>
   </ul>
 </div>
 
 <div id="user-about-content">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Sobre mim:</h2></summary>
+  <h2 style="display: inline-block">Sobre mim:</h2>
   </ul>
 </div>
   
@@ -29,7 +29,7 @@
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Tecnologias e Ferramentas 👨🏻‍💻</h2></summary>
+  <h2 style="display: inline-block">Tecnologias e Ferramentas 👨🏻‍💻</h2>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -42,7 +42,7 @@
 <!--icons and links-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Fale Comigo:</h2></summary>
+  <h2 style="display: inline-block">Fale Comigo:</h2>
   </ul>
 </div>
 <p align="center">
@@ -54,13 +54,13 @@
 <!-- Estatistica de uso -->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Estatistica de linguagens:</h2></summary>
+  <h2 style="display: inline-block">Estatistica de linguagens:</h2>
   </ul>
-  <ul align="center">
+  <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGMJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  </ul>
+  </div>
 </div>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
