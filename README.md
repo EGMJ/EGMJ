@@ -13,18 +13,20 @@
   <h2 style="display: inline-block">Sobre mim:</h2>
   </ul>
 </div>
-  
-    Idade: 19 anos, 
 
+    Idade: 19 anos, 
+  
     Formação:
       Bacharelado em Ciencias da Computação - UNICID (cursando).
       Curso Python avançado - Geek University (cursando).
       Técnico em Administração de empresas - Etec Poá (06/2021).
       Profi. Criação de games - IP (2019).
-    
+  [Veja Mais Cursos](./MeusCursos.md)
+
     Desktop: 
       Linux forever (Ubuntu 22.04).
-      
+  [Meu Setup](./MeuSetup.md)
+
 
 
 <div id="user-content-toc">
@@ -62,5 +64,3 @@
   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)-->
   </div>
 </div>
-
-
