@@ -14,11 +14,14 @@
   </ul>
 </div>
 
-    Idade: 19 anos, 
+    Idade: 20 anos, 
+
+    Trabalho:
+      Atualmente trabalho como Dev no Itaú Unibanco.
   
     Formação:
       Bacharelado em Ciencias da Computação - UNICID (cursando).
-      Curso Python avançado - Geek University (cursando).
+      Curso Python avançado - Geek University (01/2024).
       Técnico em Administração de empresas - Etec Poá (06/2021).
       Profi. Criação de games - IP (2019).
   [Veja Mais Cursos](./MeusCursos.md)
