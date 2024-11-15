@@ -61,9 +61,9 @@
   <ul align="start">
   <h2 style="display: inline-block">Estatistica de linguagens:</h2>
   </ul>
-  <div align="center">
+  <div align="center"> 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGMJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)-->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egmj&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
 </div>
